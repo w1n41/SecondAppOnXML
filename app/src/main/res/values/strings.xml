@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">SecondAppOnXML</string>
+    <string name="question1">Question 1</string>
+    <string name="question1Text">Which from this languages is strongly typed?</string>
+    <string name="question2">Question 2</string>
+    <string name="question2Text">What does the SQL abbreviation mean?</string>
+    <string name="question3">Question 3</string>
+    <string name="question3Text">Which of these key words use to create a variable using JavaScript?</string>
+    <string name="question4">Question 4</string>
+    <string name="question4Text">Which char is using to create a comment on Python?</string>
+    <string name="question5">Question 5</string>
+    <string name="question5Text">What does the keyword "final" in Java?</string>
+    <string-array name="answers_for_question1">
+        <item>Python</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>PHP</item>
+    </string-array>
+    <string-array name="answers_for_question2">
+        <item>Secure Query Language</item>
+        <item>Structured Query Language</item>
+        <item>Simple Query Language</item>
+        <item>Sequential Query Language</item>
+    </string-array>
+    <string-array name="answers_for_question3">
+        <item>var</item>
+        <item>let</item>
+        <item>const</item>
+        <item>All answers right</item>
+    </string-array>
+    <string-array name="answers_for_question4">
+        <item>//</item>
+        <item>#</item>
+        <item>/* */</item>
+        <item>=begin =end</item>
+    </string-array>
+    <string-array name="answers_for_question5">
+        <item>Creates const variable</item>
+        <item>Ends program</item>
+        <item>Creates new flow</item>
+        <item>Indicates the end of cycle</item>
+    </string-array>
+
+    <array name="correct_answers">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>2</item>
+        <item>1</item>
+    </array>
+
+    <string name="greeting">Welcome to Quiz!</string>
+    <string name="start">Start!</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish!</string>
+    <string name="result_text">Your result is: %1$d из %2$d</string>
+    <string name="try_again">Try again</string>
+    <string name="exit">Exit</string>
+
+</resources>
